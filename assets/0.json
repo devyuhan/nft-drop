@@ -1,0 +1,19 @@
+{
+    "name": "Algo Gator #718",
+    "symbol": "ALGO",
+    "image": "0.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "0.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "9mj3ju57MNzkktPL5CbQnvmcLjsF8p45pPzJVCfJJfWX",
+          "share": 100
+        }
+      ]
+    }
+  }
